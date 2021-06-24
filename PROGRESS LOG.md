@@ -30,3 +30,9 @@ The end of this stage is dedicated to reviewing the information that is accessed
 I drew on my own experience with the use of the Torre.co website and expectations when seeking an internship through it.
 The idea is a complementary introduction proposal for the platform, where the genome construction process, the consignment of work history and projects are taken into account, but users without work experience and close to degrees are considered as the main candidates to apply to "internship" type jobs.
 Additionally, due to the remote work modality for which the platform is directed, an information section is provided on how to carry out this work properly, including infographics, banners and links to other potentially allied pages that provide them.
+
+![image](https://user-images.githubusercontent.com/86243072/123239156-b5843e80-d4a4-11eb-8df7-e08c961dc5b1.png)
+
+
+# Development Stage:
+
